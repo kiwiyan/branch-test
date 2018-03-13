@@ -1,6 +1,6 @@
 
 let person1 = {
-    name: 'boyi2',
+    name: 'boyi3',
     hobby: ['harmonica', 'swimming', 'reading'],
     age: 27
 };
