@@ -1,6 +1,6 @@
 
 let person1 = {
-    version: '1.0.1',
+    version: '1.0.2',
     branch: 'dev',
     name: 'boyi',
     hobby: ['harmonica', 'swimming', 'reading'],
