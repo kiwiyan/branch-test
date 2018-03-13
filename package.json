@@ -1,0 +1,19 @@
+{
+  "name": "branch-test",
+  "version": "1.0.0",
+  "description": "test branch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kiwiyan/branch-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kiwiyan/branch-test/issues"
+  },
+  "homepage": "https://github.com/kiwiyan/branch-test#readme"
+}
